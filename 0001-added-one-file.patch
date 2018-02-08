@@ -1,0 +1,20 @@
+From 6ffbe70e1b7f81e44df068ac92834f9577ccb3ef Mon Sep 17 00:00:00 2001
+From: sahithi siddamsetty <siddamsetty.sahithi@votarytech.com>
+Date: Thu, 8 Feb 2018 14:42:59 +0530
+Subject: [PATCH] added one file
+
+---
+ simple-java-maven-app | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 160000 simple-java-maven-app
+
+diff --git a/simple-java-maven-app b/simple-java-maven-app
+new file mode 160000
+index 0000000..0d85b7e
+--- /dev/null
++++ b/simple-java-maven-app
+@@ -0,0 +1 @@
++Subproject commit 0d85b7e1fd39bc6978511f92381aa10534ca4c1b
+-- 
+2.7.4
+
